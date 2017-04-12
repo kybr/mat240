@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2017-04-05 07:35:38 -0700
+categories:
+---
+
+## Agenda
+- Hi
+- Review the syllabus
+- Install Jupyter/IPython Notebook
+- Introduce python and the notebook environment
+- Explore read, manipulating, and writing audio files
+- Review homework and readings
+- Bye
+

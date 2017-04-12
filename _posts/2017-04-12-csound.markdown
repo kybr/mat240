@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Csound, Music DSLs, and some history"
+date:   Wed Apr 12 10:46:19 PDT 2017
+categories:
+---
+
+With general purpose (programming) languages we use libraries and frameworks to delve into some specific domain. But when the language itself takes on the vocabulary of a domain, offering special treatment of the common goals, challenges, and tasks of a particular domain, the we might call that language a [DSL (domain specific language)](https://en.wikipedia.org/wiki/Domain-specific_language).
+
+# Music DSLs
+
+[Max Mathews](https://en.wikipedia.org/wiki/Max_Mathews) [MUSIC-N](https://en.wikipedia.org/wiki/MUSIC-N) family launguages were the first Music DSLs.
+
+Any Music DSL must offer some treatment of topics, structures, and tools relating to the composition (or generation) of music. A few of these might be....
+
+- [Unit Generator](https://en.wikipedia.org/wiki/Unit_generator) (or [Opcode](https://en.wikipedia.org/wiki/Opcode))
+- [Algorithmic composition](https://en.wikipedia.org/wiki/Algorithmic_composition)
+- [Envelopes](https://en.wikipedia.org/wiki/Synthesizer#ADSR_envelope) to control the amplitude, frequency, or other parameters of notes
+- Tuning/Pitch systems such as [Equal temperament](https://en.wikipedia.org/wiki/Equal_temperament) and [Just intonation](https://en.wikipedia.org/wiki/Just_intonation)
+- [MIDI](https://en.wikipedia.org/wiki/MIDI), OSC
+- Musical scales and transposition..
+- Rhythm and time signatures: 7/8, 7/8, 7/8, 4/4... 5/8, 5/8, 5/8, 6/8
+- Key signatures
+
+
+<!-- https://en.wikipedia.org/wiki/Music_and_mathematics -->
+
+
+## Pitch
+
+[Pitch]() is different than [frequency](https://en.wikipedia.org/wiki/Frequency).
+
+[Scientific Pitch Notation](https://en.wikipedia.org/wiki/Scientific_pitch_notation)
+
+
+## Loudness
+
+[Loudness](https://en.wikipedia.org/wiki/Loudness) is different than [amplitude](https://en.wikipedia.org/wiki/Amplitude) or [Sound Pressure Level](https://en.wikipedia.org/wiki/Sound_pressure#Sound_pressure_level).
+
+
+## Timbre
+
+"that attribute of auditory sensation which enables a listener to judge that two nonidentical sounds, similarly presented and having the same loudness and pitch, are dissimilar"
+These words are sometimes used for timbre..
+- character, texture, tone color, tone quality
+
+[Timbre]() is different than [spectrum]().
+
+[Spectrum]: https://en.wikipedia.org/wiki/Spectrum
+[Timbre]: https://en.wikipedia.org/wiki/Timbre
+
+
+## Envelope
+
+An [envelope]() may control any parameter, not just amplitude.
+
+[envelope]: https://en.wikipedia.org/wiki/Envelope_(waves)
+
