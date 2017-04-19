@@ -28,14 +28,24 @@ Any Music DSL must offer some treatment of topics, structures, and tools relatin
 
 ## Pitch
 
-[Pitch]() is different than [frequency](https://en.wikipedia.org/wiki/Frequency).
+[pitch][] is different than [frequency][].
 
+[frequency]: https://en.wikipedia.org/wiki/Frequency
+
+[pitch]: https://en.wikipedia.org/wiki/Pitch_(music)
+
+<!--
 [Scientific Pitch Notation](https://en.wikipedia.org/wiki/Scientific_pitch_notation)
+-->
 
 
 ## Loudness
 
-[Loudness](https://en.wikipedia.org/wiki/Loudness) is different than [amplitude](https://en.wikipedia.org/wiki/Amplitude) or [Sound Pressure Level](https://en.wikipedia.org/wiki/Sound_pressure#Sound_pressure_level).
+[loudness][] is different than [amplitude][] or [SPL][].
+
+[loudness]: https://en.wikipedia.org/wiki/Loudness
+[amplitude]: https://en.wikipedia.org/wiki/Amplitude
+[SPL]: https://en.wikipedia.org/wiki/Sound_pressure#Sound_pressure_level
 
 
 ## Timbre
@@ -44,15 +54,15 @@ Any Music DSL must offer some treatment of topics, structures, and tools relatin
 These words are sometimes used for timbre..
 - character, texture, tone color, tone quality
 
-[Timbre]() is different than [spectrum]().
+[timbre][] is different than [spectrum][].
 
-[Spectrum]: https://en.wikipedia.org/wiki/Spectrum
-[Timbre]: https://en.wikipedia.org/wiki/Timbre
+[spectrum]: https://en.wikipedia.org/wiki/Spectrum
+[timbre]: https://en.wikipedia.org/wiki/Timbre
 
 
 ## Envelope
 
-An [envelope]() may control any parameter, not just amplitude.
+An [envelope][] may control any parameter, not just amplitude.
 
 [envelope]: https://en.wikipedia.org/wiki/Envelope_(waves)
 
